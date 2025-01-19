@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.a2fdda25.css",
-    "main.js": "/my-portfolio/static/js/main.b1779e39.js",
+    "main.css": "/my-portfolio/static/css/main.b83cfc9d.css",
+    "main.js": "/my-portfolio/static/js/main.49b233a3.js",
     "static/media/keepervol2.png": "/my-portfolio/static/media/keepervol2.715ac1fd91ce58a7c3ab.png",
     "static/media/crypto-top.png": "/my-portfolio/static/media/crypto-top.03716d027ba449908cac.png",
     "static/media/git.png": "/my-portfolio/static/media/git.8dd3688bb1415872d423.png",
@@ -14,11 +14,11 @@
     "static/media/css.png": "/my-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/my-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/my-portfolio/index.html",
-    "main.a2fdda25.css.map": "/my-portfolio/static/css/main.a2fdda25.css.map",
-    "main.b1779e39.js.map": "/my-portfolio/static/js/main.b1779e39.js.map"
+    "main.b83cfc9d.css.map": "/my-portfolio/static/css/main.b83cfc9d.css.map",
+    "main.49b233a3.js.map": "/my-portfolio/static/js/main.49b233a3.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2fdda25.css",
-    "static/js/main.b1779e39.js"
+    "static/css/main.b83cfc9d.css",
+    "static/js/main.49b233a3.js"
   ]
 }
