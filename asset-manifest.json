@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.a2fdda25.css",
+    "main.js": "/my-portfolio/static/js/main.b1779e39.js",
+    "static/media/keepervol2.png": "/my-portfolio/static/media/keepervol2.715ac1fd91ce58a7c3ab.png",
+    "static/media/crypto-top.png": "/my-portfolio/static/media/crypto-top.03716d027ba449908cac.png",
+    "static/media/git.png": "/my-portfolio/static/media/git.8dd3688bb1415872d423.png",
+    "static/media/Postgresql.png": "/my-portfolio/static/media/Postgresql.0a461d4ef387545cb6f5.png",
+    "static/media/react.png": "/my-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/my-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/my-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/react-keeper.png": "/my-portfolio/static/media/react-keeper.a647a96724f3400a0f29.png",
+    "static/media/html.png": "/my-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/my-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/my-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.a2fdda25.css.map": "/my-portfolio/static/css/main.a2fdda25.css.map",
+    "main.b1779e39.js.map": "/my-portfolio/static/js/main.b1779e39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2fdda25.css",
+    "static/js/main.b1779e39.js"
+  ]
+}
