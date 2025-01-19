@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { FaBars, FaTimes, FaGithub, FaLinkedin } from "react-icons/fa";
-import { BsFillPersonLinesFill } from "react-icons/bs";
 import { Link } from "react-scroll";
 
 const Navbar = () => {
@@ -59,13 +58,7 @@ const Navbar = () => {
             icon: <FaGithub size={30} />,
             color: "bg-[#333333]",
             link: "https://github.com/NikosMple",
-          },
-          {
-            name: "Resume",
-            icon: <BsFillPersonLinesFill size={30} />,
-            color: "bg-[#6fc2b0]",
-            link: "/Resume.pdf",
-          },
+          }
         ].map(({ name, icon, color, link }) => (
           <a
             key={name}
