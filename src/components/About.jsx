@@ -28,9 +28,10 @@ const About = () => {
             constantly improving my technical expertise and staying updated on the latest tech trends.
             </p>
             <p className="mt-4">
-            By working on personal projects, I’ve gained hands-on experience with various technologies. 
-            For example, in my Keeper Note app—a project I developed but didn’t release—I combined React, Node.js, and MongoDB to integrate front-end, back-end, and database systems. 
-            I focused heavily on authentication, JWT tokens, and security, which enriched my understanding of secure web development practices.
+            By working on personal projects, I've gained hands-on experience with a variety of technologies. 
+            For example, I've built Full-Stack applications using React for the Frontend and Node.js with Express.js for the Backend. 
+            I've also gained experience with both relational and non-relational databases, such as PostgreSQL and MongoDB. 
+            Dedicating time to understanding authentication, JWT tokens, and security , which has really helped me grow my knowledge of secure web development practices. 
             </p>
             <p className="mt-4">
             Beyond web development, my interest in cryptocurrencies has led me to explore the field from a technical perspective. 
