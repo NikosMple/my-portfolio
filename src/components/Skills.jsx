@@ -1,12 +1,12 @@
 import React from 'react';
 import html from "../assets/html.png";
 import css from "../assets/css.png";
-import github from "../assets/github.png";
 import git from "../assets/git.png";
 import javaScript from "../assets/javascript.png";
 import react from "../assets/react.png";
 import node from "../assets/node.png";
 import Postgresql from "../assets/Postgresql.png";
+import python from "../assets/python.png";
 
 const Skills = () => {
   return (
@@ -32,11 +32,11 @@ const Skills = () => {
           {[
             { src: html, name: "HTML" },
             { src: css, name: "CSS" },
-            { src: github, name: "GitHub" },
             {src: git, name: "Git"},
             { src: javaScript, name: "JavaScript" },
             { src: react, name: "React" },
             { src: node, name: "Node.js" },
+            { src: python, name: "Python" },
             { src: Postgresql, name: "PostgreSQL" },
           ].map((skill, index) => (
             <div

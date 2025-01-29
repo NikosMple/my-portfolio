@@ -8,7 +8,7 @@ export const Home = () => {
       {/* Container */}
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
         <p className="text-yellow-500 text-lg sm:text-xl tracking-widest">Hi, my name is</p>
-        <h1 className="text-4xl sm:text-7xl font-extrabold text-[#ccd6f6]">Nikolas Bletsas</h1>
+        <h1 className="text-4xl sm:text-7xl font-extrabold text-[#ccd6f6]">Nikolaos Bletsas</h1>
         <h2 className="text-4xl sm:text-7xl font-semibold text-[#8892b0] mt-2">I'm a Junior Developer.</h2>
         <p className="text-[#8892b0] py-4 max-w-[700px] text-lg sm:text-xl">
           My expertise is in web development, where I leverage and apply emerging technologies to create modern and dynamic applications.
