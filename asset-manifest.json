@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.22eda8ca.css",
+    "main.js": "/my-portfolio/static/js/main.5d5719e8.js",
+    "static/media/keepervol2.png": "/my-portfolio/static/media/keepervol2.d08861843aed7b18eb94.png",
+    "static/media/git.png": "/my-portfolio/static/media/git.8dd3688bb1415872d423.png",
+    "static/media/pychain.png": "/my-portfolio/static/media/pychain.1eb16d3b40053b103069.png",
+    "static/media/quiz-app.png": "/my-portfolio/static/media/quiz-app.07d75cdf2b534d9b2f8c.png",
+    "static/media/Postgresql.png": "/my-portfolio/static/media/Postgresql.0a461d4ef387545cb6f5.png",
+    "static/media/react.png": "/my-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/my-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/html.png": "/my-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/my-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/my-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.22eda8ca.css.map": "/my-portfolio/static/css/main.22eda8ca.css.map",
+    "main.5d5719e8.js.map": "/my-portfolio/static/js/main.5d5719e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22eda8ca.css",
+    "static/js/main.5d5719e8.js"
+  ]
+}
