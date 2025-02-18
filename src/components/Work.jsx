@@ -12,7 +12,7 @@ const Work = () => {
         {/* Section Title */}
         <div className="text-center pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-yellow-500">
-            Work
+            Personal Projects
           </p>
           <p className="mt-4 text-lg sm:text-xl text-[#8892b0]">
             Check out some of my recent work

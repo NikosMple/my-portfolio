@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { FaBars, FaTimes, FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaBars, FaTimes, FaGithub, FaLinkedin, FaFilePdf  } from "react-icons/fa";
 import { Link } from "react-scroll";
 
 const Navbar = () => {
@@ -8,13 +8,9 @@ const Navbar = () => {
 
   return (
     <div className="fixed w-full h-[70px] flex justify-between items-center px-6 bg-gradient-to-r from-[#0a192f] to-[#020c1b] text-gray-300 z-50 shadow-md">
-      {/* Logo */}
-      <div>
-        <h1 className="text-2xl font-bold text-yellow-500">My Portfolio</h1>
-      </div>
-
+      <div></div>
       {/* Desktop Menu */}
-      <ul className="hidden md:flex space-x-6">
+      <ul className="hidden md:flex  space-x-6 ">
         {['home', 'about', 'skills', 'work', 'contact'].map((section) => (
           <li key={section} className="hover:text-yellow-500">
             <Link to={section} smooth={true} duration={500} offset={-80}>
@@ -57,7 +53,13 @@ const Navbar = () => {
             name: "GitHub",
             icon: <FaGithub size={30} />,
             color: "bg-[#333333]",
-            link: "https://github.com/NikosMple",
+            link: "https://github.com/NikosMple ",
+          },
+          {
+            name: "Resume",
+            icon: <FaFilePdf  size={30} />,
+            color: "bg-red-600",
+            link: "https://drive.google.com/file/d/1u9LGDG8yEitcSBko0wr6mgDUJoqsWSlQ/view?usp=drive_link",
           }
         ].map(({ name, icon, color, link }) => (
           <a
